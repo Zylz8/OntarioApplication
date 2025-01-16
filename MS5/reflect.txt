@@ -1,0 +1,13 @@
+
+/*
+Name: Jackey Zhou
+Student ID: 164431223
+Email: jzhou200@myseneca.ca
+Section: NBB
+
+Declaration:
+I have done all the coding by myself and only copied the code
+that my professor provided to complete my workshops and assignments.
+*/
+
+The new concepts or skills that I required when doing this project is learning about pure virtual functions, using a Utils module which was very helpful for these milestones, Implementing classes, more use of insertion and extraction operators, reading and writing information into ostream and istream, and writing virtual function override. To evolve my understanding of C into C++ using object orientation is by using classes and objects to separate entities. Also by using Encapsulation, Inheritance, Polymorphism, overloading, and now templates. The challenges I encountered when developing the application is mostly memory leak as i forget to delete dynamic memory and getting the application to output in correctly which took a lot of using breakpoints and the run controls to fix my mistakes. I mostly overcame these challenges by once I use dynamic memory I just put it straight to the destructor and I used run controls and breakpoints to understand how my program runs and what the issue is.
